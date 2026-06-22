@@ -1,0 +1,552 @@
+[
+  {
+    "severity": 0.0,
+    "asymmetry": 0.0,
+    "apd_range_ms": 0.0078505048295483,
+    "apd_cv": 1.7168044432747353e-05,
+    "vrest_range_mV": 0.03534943973491522,
+    "vrest_depol_mV": 0.03534943973491522,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.63320521113928,
+      "mid_septal": 228.64105571596883,
+      "mid_lateral": 228.64105571596883,
+      "basal_lateral": 228.63320521113928
+    },
+    "vrest_map": {
+      "basal_septal": -87.89405816183859,
+      "mid_septal": -87.9294076015735,
+      "mid_lateral": -87.9294076015735,
+      "basal_lateral": -87.89405816183859
+    }
+  },
+  {
+    "severity": 0.0,
+    "asymmetry": 0.25,
+    "apd_range_ms": 0.0078505048295483,
+    "apd_cv": 1.7168044432747353e-05,
+    "vrest_range_mV": 0.03534943973491522,
+    "vrest_depol_mV": 0.03534943973491522,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.63320521113928,
+      "mid_septal": 228.64105571596883,
+      "mid_lateral": 228.64105571596883,
+      "basal_lateral": 228.63320521113928
+    },
+    "vrest_map": {
+      "basal_septal": -87.89405816183859,
+      "mid_septal": -87.9294076015735,
+      "mid_lateral": -87.9294076015735,
+      "basal_lateral": -87.89405816183859
+    }
+  },
+  {
+    "severity": 0.0,
+    "asymmetry": 0.5,
+    "apd_range_ms": 0.0078505048295483,
+    "apd_cv": 1.7168044432747353e-05,
+    "vrest_range_mV": 0.03534943973491522,
+    "vrest_depol_mV": 0.03534943973491522,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.63320521113928,
+      "mid_septal": 228.64105571596883,
+      "mid_lateral": 228.64105571596883,
+      "basal_lateral": 228.63320521113928
+    },
+    "vrest_map": {
+      "basal_septal": -87.89405816183859,
+      "mid_septal": -87.9294076015735,
+      "mid_lateral": -87.9294076015735,
+      "basal_lateral": -87.89405816183859
+    }
+  },
+  {
+    "severity": 0.0,
+    "asymmetry": 0.75,
+    "apd_range_ms": 0.0078505048295483,
+    "apd_cv": 1.7168044432747353e-05,
+    "vrest_range_mV": 0.03534943973491522,
+    "vrest_depol_mV": 0.03534943973491522,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.63320521113928,
+      "mid_septal": 228.64105571596883,
+      "mid_lateral": 228.64105571596883,
+      "basal_lateral": 228.63320521113928
+    },
+    "vrest_map": {
+      "basal_septal": -87.89405816183859,
+      "mid_septal": -87.9294076015735,
+      "mid_lateral": -87.9294076015735,
+      "basal_lateral": -87.89405816183859
+    }
+  },
+  {
+    "severity": 0.0,
+    "asymmetry": 1.0,
+    "apd_range_ms": 0.0078505048295483,
+    "apd_cv": 1.7168044432747353e-05,
+    "vrest_range_mV": 0.03534943973491522,
+    "vrest_depol_mV": 0.03534943973491522,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.63320521113928,
+      "mid_septal": 228.64105571596883,
+      "mid_lateral": 228.64105571596883,
+      "basal_lateral": 228.63320521113928
+    },
+    "vrest_map": {
+      "basal_septal": -87.89405816183859,
+      "mid_septal": -87.9294076015735,
+      "mid_lateral": -87.9294076015735,
+      "basal_lateral": -87.89405816183859
+    }
+  },
+  {
+    "severity": 0.25,
+    "asymmetry": 0.0,
+    "apd_range_ms": 0.14600416948087513,
+    "apd_cv": 0.0003190020005117068,
+    "vrest_range_mV": 0.08158710839376226,
+    "vrest_depol_mV": 0.22685355540478724,
+    "stress_heterogeneity": 0.03394752533876244,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 228.91822757967748,
+      "mid_septal": 228.7722234101966,
+      "mid_lateral": 228.7722234101966,
+      "basal_lateral": 228.91822757967748
+    },
+    "vrest_map": {
+      "basal_septal": -87.70255404616871,
+      "mid_septal": -87.78414115456248,
+      "mid_lateral": -87.78414115456248,
+      "basal_lateral": -87.70255404616871
+    }
+  },
+  {
+    "severity": 0.25,
+    "asymmetry": 0.25,
+    "apd_range_ms": 0.17474459682125598,
+    "apd_cv": 0.00031625860529869336,
+    "vrest_range_mV": 0.19173243728420175,
+    "vrest_depol_mV": 0.33699888429522673,
+    "stress_heterogeneity": 0.0542204023842278,
+    "septal_lateral_gradient": 1.088235294117647,
+    "apd_map": {
+      "basal_septal": 228.94696800701786,
+      "mid_septal": 228.81185285409447,
+      "mid_lateral": 228.7722234101966,
+      "basal_lateral": 228.91822757967748
+    },
+    "vrest_map": {
+      "basal_septal": -87.59240871727827,
+      "mid_septal": -87.68167655999707,
+      "mid_lateral": -87.78414115456248,
+      "basal_lateral": -87.70255404616871
+    }
+  },
+  {
+    "severity": 0.25,
+    "asymmetry": 0.5,
+    "apd_range_ms": 0.2993739878293127,
+    "apd_cv": 0.00048022648440946343,
+    "vrest_range_mV": 0.32574117404105607,
+    "vrest_depol_mV": 0.47100762105208105,
+    "stress_heterogeneity": 0.09458791595858636,
+    "septal_lateral_gradient": 1.1935483870967745,
+    "apd_map": {
+      "basal_septal": 229.07159739802592,
+      "mid_septal": 228.98926409927662,
+      "mid_lateral": 228.7722234101966,
+      "basal_lateral": 228.91822757967748
+    },
+    "vrest_map": {
+      "basal_septal": -87.45839998052142,
+      "mid_septal": -87.55809838528573,
+      "mid_lateral": -87.78414115456248,
+      "basal_lateral": -87.70255404616871
+    }
+  },
+  {
+    "severity": 0.25,
+    "asymmetry": 0.75,
+    "apd_range_ms": 0.5463343897135928,
+    "apd_cv": 0.0009106772555588383,
+    "vrest_range_mV": 0.48829047434605855,
+    "vrest_depol_mV": 0.6335569213570835,
+    "stress_heterogeneity": 0.14263984758771464,
+    "septal_lateral_gradient": 1.3214285714285716,
+    "apd_map": {
+      "basal_septal": 229.3185577999102,
+      "mid_septal": 229.13962776889093,
+      "mid_lateral": 228.7722234101966,
+      "basal_lateral": 228.91822757967748
+    },
+    "vrest_map": {
+      "basal_septal": -87.29585068021642,
+      "mid_septal": -87.40691275121182,
+      "mid_lateral": -87.78414115456248,
+      "basal_lateral": -87.70255404616871
+    }
+  },
+  {
+    "severity": 0.25,
+    "asymmetry": 1.0,
+    "apd_range_ms": 0.8256584483897313,
+    "apd_cv": 0.0014502362661079425,
+    "vrest_range_mV": 0.694036919346857,
+    "vrest_depol_mV": 0.8393033663578819,
+    "stress_heterogeneity": 0.19661277666299895,
+    "septal_lateral_gradient": 1.4800000000000002,
+    "apd_map": {
+      "basal_septal": 229.59788185858633,
+      "mid_septal": 229.3631456164876,
+      "mid_lateral": 228.7722234101966,
+      "basal_lateral": 228.91822757967748
+    },
+    "vrest_map": {
+      "basal_septal": -87.09010423521562,
+      "mid_septal": -87.21607921079381,
+      "mid_lateral": -87.78414115456248,
+      "basal_lateral": -87.70255404616871
+    }
+  },
+  {
+    "severity": 0.5,
+    "asymmetry": 0.0,
+    "apd_range_ms": 0.10470729216467589,
+    "apd_cv": 0.00022860111968728636,
+    "vrest_range_mV": 0.09808231886377428,
+    "vrest_depol_mV": 0.4555840058901026,
+    "stress_heterogeneity": 0.03380821788514661,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 229.06980620254762,
+      "mid_septal": 228.96509891038295,
+      "mid_lateral": 228.96509891038295,
+      "basal_lateral": 229.06980620254762
+    },
+    "vrest_map": {
+      "basal_septal": -87.4738235956834,
+      "mid_septal": -87.57190591454717,
+      "mid_lateral": -87.57190591454717,
+      "basal_lateral": -87.4738235956834
+    }
+  },
+  {
+    "severity": 0.5,
+    "asymmetry": 0.25,
+    "apd_range_ms": 0.48653932160232216,
+    "apd_cv": 0.00080249834203592,
+    "vrest_range_mV": 0.24255488163430527,
+    "vrest_depol_mV": 0.6000565686606336,
+    "stress_heterogeneity": 0.057232926667100996,
+    "septal_lateral_gradient": 1.096774193548387,
+    "apd_map": {
+      "basal_septal": 229.45163823198527,
+      "mid_septal": 229.23649732302874,
+      "mid_lateral": 228.96509891038295,
+      "basal_lateral": 229.06980620254762
+    },
+    "vrest_map": {
+      "basal_septal": -87.32935103291287,
+      "mid_septal": -87.4365881981735,
+      "mid_lateral": -87.57190591454717,
+      "basal_lateral": -87.4738235956834
+    }
+  },
+  {
+    "severity": 0.5,
+    "asymmetry": 0.5,
+    "apd_range_ms": 0.5204105193261057,
+    "apd_cv": 0.000916910318246681,
+    "vrest_range_mV": 0.4221820966240273,
+    "vrest_depol_mV": 0.7796837836503556,
+    "stress_heterogeneity": 0.10256190602156702,
+    "septal_lateral_gradient": 1.2142857142857142,
+    "apd_map": {
+      "basal_septal": 229.48550942970905,
+      "mid_septal": 229.35662284551654,
+      "mid_lateral": 228.96509891038295,
+      "basal_lateral": 229.06980620254762
+    },
+    "vrest_map": {
+      "basal_septal": -87.14972381792315,
+      "mid_septal": -87.2705804372964,
+      "mid_lateral": -87.57190591454717,
+      "basal_lateral": -87.4738235956834
+    }
+  },
+  {
+    "severity": 0.5,
+    "asymmetry": 0.75,
+    "apd_range_ms": 0.8282232007477432,
+    "apd_cv": 0.0015254491669286904,
+    "vrest_range_mV": 0.6444146017572905,
+    "vrest_depol_mV": 1.0019162887836188,
+    "stress_heterogeneity": 0.15632903660550146,
+    "septal_lateral_gradient": 1.3599999999999999,
+    "apd_map": {
+      "basal_septal": 229.7933221111307,
+      "mid_septal": 229.60845033626538,
+      "mid_lateral": 228.96509891038295,
+      "basal_lateral": 229.06980620254762
+    },
+    "vrest_map": {
+      "basal_septal": -86.92749131278988,
+      "mid_septal": -87.06330673430777,
+      "mid_lateral": -87.57190591454717,
+      "basal_lateral": -87.4738235956834
+    }
+  },
+  {
+    "severity": 0.5,
+    "asymmetry": 1.0,
+    "apd_range_ms": 1.3382046178448945,
+    "apd_cv": 0.0025690888155562564,
+    "vrest_range_mV": 0.9332031871927882,
+    "vrest_depol_mV": 1.2907048742191165,
+    "stress_heterogeneity": 0.21705724460424605,
+    "septal_lateral_gradient": 1.5454545454545454,
+    "apd_map": {
+      "basal_septal": 230.30330352822784,
+      "mid_septal": 230.06142243160866,
+      "mid_lateral": 228.96509891038295,
+      "basal_lateral": 229.06980620254762
+    },
+    "vrest_map": {
+      "basal_septal": -86.63870272735439,
+      "mid_septal": -86.79686986174845,
+      "mid_lateral": -87.57190591454717,
+      "basal_lateral": -87.4738235956834
+    }
+  },
+  {
+    "severity": 0.75,
+    "asymmetry": 0.0,
+    "apd_range_ms": 0.13580679323058575,
+    "apd_cv": 0.00029580642886341344,
+    "vrest_range_mV": 0.116913010190558,
+    "vrest_depol_mV": 0.7314088679677013,
+    "stress_heterogeneity": 0.033682357033287764,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 229.62138834351208,
+      "mid_septal": 229.4855815502815,
+      "mid_lateral": 229.4855815502815,
+      "basal_lateral": 229.62138834351208
+    },
+    "vrest_map": {
+      "basal_septal": -87.1979987336058,
+      "mid_septal": -87.31491174379636,
+      "mid_lateral": -87.31491174379636,
+      "basal_lateral": -87.1979987336058
+    }
+  },
+  {
+    "severity": 0.75,
+    "asymmetry": 0.25,
+    "apd_range_ms": 0.25506371969822794,
+    "apd_cv": 0.00040470897830773895,
+    "vrest_range_mV": 0.31240349710157034,
+    "vrest_depol_mV": 0.9268993548787137,
+    "stress_heterogeneity": 0.06101555813353067,
+    "septal_lateral_gradient": 1.107142857142857,
+    "apd_map": {
+      "basal_septal": 229.66714374592993,
+      "mid_septal": 229.74064526997972,
+      "mid_lateral": 229.4855815502815,
+      "basal_lateral": 229.62138834351208
+    },
+    "vrest_map": {
+      "basal_septal": -87.00250824669479,
+      "mid_septal": -87.13423270191296,
+      "mid_lateral": -87.31491174379636,
+      "basal_lateral": -87.1979987336058
+    }
+  },
+  {
+    "severity": 0.75,
+    "asymmetry": 0.5,
+    "apd_range_ms": 0.5280681205913424,
+    "apd_cv": 0.0008580004563544086,
+    "vrest_range_mV": 0.5532300784737885,
+    "vrest_depol_mV": 1.1677259362509318,
+    "stress_heterogeneity": 0.11237044372290914,
+    "septal_lateral_gradient": 1.24,
+    "apd_map": {
+      "basal_septal": 230.01364967087284,
+      "mid_septal": 229.78863596648443,
+      "mid_lateral": 229.4855815502815,
+      "basal_lateral": 229.62138834351208
+    },
+    "vrest_map": {
+      "basal_septal": -86.76168166532257,
+      "mid_septal": -86.90904119110961,
+      "mid_lateral": -87.31491174379636,
+      "basal_lateral": -87.1979987336058
+    }
+  },
+  {
+    "severity": 0.75,
+    "asymmetry": 0.75,
+    "apd_range_ms": 0.8685579320881516,
+    "apd_cv": 0.001668010065954238,
+    "vrest_range_mV": 0.8658166716244722,
+    "vrest_depol_mV": 1.4803125294016155,
+    "stress_heterogeneity": 0.1732140299652811,
+    "septal_lateral_gradient": 1.4090909090909087,
+    "apd_map": {
+      "basal_septal": 230.35413948236965,
+      "mid_septal": 230.27025136654265,
+      "mid_lateral": 229.4855815502815,
+      "basal_lateral": 229.62138834351208
+    },
+    "vrest_map": {
+      "basal_septal": -86.44909507217189,
+      "mid_septal": -86.6177556057857,
+      "mid_lateral": -87.31491174379636,
+      "basal_lateral": -87.1979987336058
+    }
+  },
+  {
+    "severity": 0.75,
+    "asymmetry": 1.0,
+    "apd_range_ms": 1.7307669126894325,
+    "apd_cv": 0.003297204476516457,
+    "vrest_range_mV": 1.2876820413274288,
+    "vrest_depol_mV": 1.9021778991045721,
+    "stress_heterogeneity": 0.2424868005542078,
+    "septal_lateral_gradient": 1.6315789473684208,
+    "apd_map": {
+      "basal_septal": 231.21634846297093,
+      "mid_septal": 230.8856671693502,
+      "mid_lateral": 229.4855815502815,
+      "basal_lateral": 229.62138834351208
+    },
+    "vrest_map": {
+      "basal_septal": -86.02722970246893,
+      "mid_septal": -86.22970757639497,
+      "mid_lateral": -87.31491174379636,
+      "basal_lateral": -87.1979987336058
+    }
+  },
+  {
+    "severity": 1.0,
+    "asymmetry": 0.0,
+    "apd_range_ms": 0.1479621104663238,
+    "apd_cv": 0.0003219881109204855,
+    "vrest_range_mV": 0.1402974453611847,
+    "vrest_depol_mV": 1.0725067414559533,
+    "stress_heterogeneity": 0.03356819753426345,
+    "septal_lateral_gradient": 1.0,
+    "apd_map": {
+      "basal_septal": 229.83729443245102,
+      "mid_septal": 229.6893323219847,
+      "mid_lateral": 229.6893323219847,
+      "basal_lateral": 229.83729443245102
+    },
+    "vrest_map": {
+      "basal_septal": -86.85690086011755,
+      "mid_septal": -86.99719830547873,
+      "mid_lateral": -86.99719830547873,
+      "basal_lateral": -86.85690086011755
+    }
+  },
+  {
+    "severity": 1.0,
+    "asymmetry": 0.25,
+    "apd_range_ms": 0.42212490644305944,
+    "apd_cv": 0.0006798727274319419,
+    "vrest_range_mV": 0.402721570120093,
+    "vrest_depol_mV": 1.3349308662148616,
+    "stress_heterogeneity": 0.06583632279402493,
+    "septal_lateral_gradient": 1.1199999999999999,
+    "apd_map": {
+      "basal_septal": 230.11145722842775,
+      "mid_septal": 229.96861344820354,
+      "mid_lateral": 229.6893323219847,
+      "basal_lateral": 229.83729443245102
+    },
+    "vrest_map": {
+      "basal_septal": -86.59447673535864,
+      "mid_septal": -86.75427932559626,
+      "mid_lateral": -86.99719830547873,
+      "basal_lateral": -86.85690086011755
+    }
+  },
+  {
+    "severity": 1.0,
+    "asymmetry": 0.5,
+    "apd_range_ms": 1.0997332513798028,
+    "apd_cv": 0.001956782439754953,
+    "vrest_range_mV": 0.7410423018123424,
+    "vrest_depol_mV": 1.673251597907111,
+    "stress_heterogeneity": 0.12467176965798389,
+    "septal_lateral_gradient": 1.2727272727272727,
+    "apd_map": {
+      "basal_septal": 230.7890655733645,
+      "mid_septal": 230.46892846829724,
+      "mid_lateral": 229.6893323219847,
+      "basal_lateral": 229.83729443245102
+    },
+    "vrest_map": {
+      "basal_septal": -86.25615600366639,
+      "mid_septal": -86.44113241419205,
+      "mid_lateral": -86.99719830547873,
+      "basal_lateral": -86.85690086011755
+    }
+  },
+  {
+    "severity": 1.0,
+    "asymmetry": 0.75,
+    "apd_range_ms": 1.9577915038680658,
+    "apd_cv": 0.0036277401768527087,
+    "vrest_range_mV": 1.1976844724402582,
+    "vrest_depol_mV": 2.1298937685350268,
+    "stress_heterogeneity": 0.19451559862116327,
+    "septal_lateral_gradient": 1.473684210526316,
+    "apd_map": {
+      "basal_septal": 231.64712382585276,
+      "mid_septal": 231.14137935242616,
+      "mid_lateral": 229.6893323219847,
+      "basal_lateral": 229.83729443245102
+    },
+    "vrest_map": {
+      "basal_septal": -85.79951383303847,
+      "mid_septal": -86.01824568533814,
+      "mid_lateral": -86.99719830547873,
+      "basal_lateral": -86.85690086011755
+    }
+  },
+  {
+    "severity": 1.0,
+    "asymmetry": 1.0,
+    "apd_range_ms": 2.1919435281306505,
+    "apd_cv": 0.00459345810157288,
+    "vrest_range_mV": 1.3189301912949958,
+    "vrest_depol_mV": 2.2511394873897643,
+    "stress_heterogeneity": 0.27493781573626014,
+    "septal_lateral_gradient": 1.7500000000000002,
+    "apd_map": {
+      "basal_septal": 231.88127585011534,
+      "mid_septal": 231.88127585011534,
+      "mid_lateral": 229.6893323219847,
+      "basal_lateral": 229.83729443245102
+    },
+    "vrest_map": {
+      "basal_septal": -85.67826811418374,
+      "mid_septal": -85.67826811418374,
+      "mid_lateral": -86.99719830547873,
+      "basal_lateral": -86.85690086011755
+    }
+  }
+]

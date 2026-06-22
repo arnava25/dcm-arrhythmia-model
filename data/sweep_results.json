@@ -3,400 +3,400 @@
     "severity": 0.0,
     "asymmetry": 0.0,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 164.55022807519708,
-      "mid_lateral": 164.55022807519708,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.31220266056334,
+      "mid_septal": 237.39845344976493,
+      "mid_lateral": 237.39845344976493,
+      "basal_lateral": 237.31220266056334
     },
-    "apd_mean": 164.55022807519708,
-    "apd_std": 0.0,
-    "apd_range": 0.0,
-    "repol_heterogeneity": 0.0,
-    "stress_heterogeneity": 0.10244483424872634,
-    "septal_lateral_gradient": 1.0456894385851505
+    "apd_mean": 237.35532805516414,
+    "apd_std": 0.04312539460079279,
+    "apd_range": 0.08625078920158558,
+    "repol_heterogeneity": 0.0001816912851889718,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.0,
     "asymmetry": 0.25,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 164.55022807519708,
-      "mid_lateral": 164.55022807519708,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.31220266056334,
+      "mid_septal": 237.39845344976493,
+      "mid_lateral": 237.39845344976493,
+      "basal_lateral": 237.31220266056334
     },
-    "apd_mean": 164.55022807519708,
-    "apd_std": 0.0,
-    "apd_range": 0.0,
-    "repol_heterogeneity": 0.0,
-    "stress_heterogeneity": 0.10244483424872634,
-    "septal_lateral_gradient": 1.0456894385851505
+    "apd_mean": 237.35532805516414,
+    "apd_std": 0.04312539460079279,
+    "apd_range": 0.08625078920158558,
+    "repol_heterogeneity": 0.0001816912851889718,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.0,
     "asymmetry": 0.5,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 164.55022807519708,
-      "mid_lateral": 164.55022807519708,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.31220266056334,
+      "mid_septal": 237.39845344976493,
+      "mid_lateral": 237.39845344976493,
+      "basal_lateral": 237.31220266056334
     },
-    "apd_mean": 164.55022807519708,
-    "apd_std": 0.0,
-    "apd_range": 0.0,
-    "repol_heterogeneity": 0.0,
-    "stress_heterogeneity": 0.10244483424872634,
-    "septal_lateral_gradient": 1.0456894385851505
+    "apd_mean": 237.35532805516414,
+    "apd_std": 0.04312539460079279,
+    "apd_range": 0.08625078920158558,
+    "repol_heterogeneity": 0.0001816912851889718,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.0,
     "asymmetry": 0.75,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 164.55022807519708,
-      "mid_lateral": 164.55022807519708,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.31220266056334,
+      "mid_septal": 237.39845344976493,
+      "mid_lateral": 237.39845344976493,
+      "basal_lateral": 237.31220266056334
     },
-    "apd_mean": 164.55022807519708,
-    "apd_std": 0.0,
-    "apd_range": 0.0,
-    "repol_heterogeneity": 0.0,
-    "stress_heterogeneity": 0.10244483424872634,
-    "septal_lateral_gradient": 1.0456894385851505
+    "apd_mean": 237.35532805516414,
+    "apd_std": 0.04312539460079279,
+    "apd_range": 0.08625078920158558,
+    "repol_heterogeneity": 0.0001816912851889718,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.0,
     "asymmetry": 1.0,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 164.55022807519708,
-      "mid_lateral": 164.55022807519708,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.31220266056334,
+      "mid_septal": 237.39845344976493,
+      "mid_lateral": 237.39845344976493,
+      "basal_lateral": 237.31220266056334
     },
-    "apd_mean": 164.55022807519708,
-    "apd_std": 0.0,
-    "apd_range": 0.0,
-    "repol_heterogeneity": 0.0,
-    "stress_heterogeneity": 0.10244483424872634,
-    "septal_lateral_gradient": 1.0456894385851505
+    "apd_mean": 237.35532805516414,
+    "apd_std": 0.04312539460079279,
+    "apd_range": 0.08625078920158558,
+    "repol_heterogeneity": 0.0001816912851889718,
+    "stress_heterogeneity": 0.03410232668738084,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.25,
     "asymmetry": 0.0,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 163.62039699679372,
-      "mid_lateral": 164.29462250541837,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.19297370387358,
+      "mid_septal": 237.25192288747348,
+      "mid_lateral": 237.25192288747348,
+      "basal_lateral": 237.19297370387358
     },
-    "apd_mean": 164.25386891315156,
-    "apd_std": 0.3803304582706264,
-    "apd_range": 0.9298310784033674,
-    "repol_heterogeneity": 0.0023155038038813213,
-    "stress_heterogeneity": 0.10070659384259208,
-    "septal_lateral_gradient": 1.0446449867326535
+    "apd_mean": 237.22244829567353,
+    "apd_std": 0.029474591799953487,
+    "apd_range": 0.058949183599906974,
+    "repol_heterogeneity": 0.00012424874632107507,
+    "stress_heterogeneity": 0.03394752533876244,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.25,
     "asymmetry": 0.25,
     "apd_map": {
-      "basal_septal": 164.55022807519708,
-      "mid_septal": 163.19524676740912,
-      "mid_lateral": 164.29462250541837,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.12688709818758,
+      "mid_septal": 237.16392728518986,
+      "mid_lateral": 237.25192288747348,
+      "basal_lateral": 237.19297370387358
     },
-    "apd_mean": 164.1475813558054,
-    "apd_std": 0.5596452066285372,
-    "apd_range": 1.3549813077879662,
-    "repol_heterogeneity": 0.0034094026972925863,
-    "stress_heterogeneity": 0.12012097380907787,
-    "septal_lateral_gradient": 1.1368195443855347
+    "apd_mean": 237.18392774368112,
+    "apd_std": 0.045713298265734656,
+    "apd_range": 0.12503578928590287,
+    "repol_heterogeneity": 0.00019273354101436376,
+    "stress_heterogeneity": 0.0542204023842278,
+    "septal_lateral_gradient": 1.088235294117647
   },
   {
     "severity": 0.25,
     "asymmetry": 0.5,
     "apd_map": {
-      "basal_septal": 164.11716921755578,
-      "mid_septal": 162.46313506556544,
-      "mid_lateral": 164.29462250541837,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.05125624653738,
+      "mid_septal": 237.21001338935457,
+      "mid_lateral": 237.25192288747348,
+      "basal_lateral": 237.19297370387358
     },
-    "apd_mean": 163.85628871593417,
-    "apd_std": 0.818935906374832,
-    "apd_range": 2.0870930096316442,
-    "repol_heterogeneity": 0.0049978912179230554,
-    "stress_heterogeneity": 0.1521752269071185,
-    "septal_lateral_gradient": 1.2468343390034897
+    "apd_mean": 237.17654155680975,
+    "apd_std": 0.07544722164154816,
+    "apd_range": 0.20066664093610598,
+    "repol_heterogeneity": 0.000318105750030412,
+    "stress_heterogeneity": 0.09458791595858636,
+    "septal_lateral_gradient": 1.1935483870967745
   },
   {
     "severity": 0.25,
     "asymmetry": 0.75,
     "apd_map": {
-      "basal_septal": 163.4805014186386,
-      "mid_septal": 161.73218150397224,
-      "mid_lateral": 164.29462250541837,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 237.0032945960702,
+      "mid_septal": 237.03540644584427,
+      "mid_lateral": 237.25192288747348,
+      "basal_lateral": 237.19297370387358
     },
-    "apd_mean": 163.51438337580657,
-    "apd_std": 1.1021727223561788,
-    "apd_range": 2.8180465712248406,
-    "repol_heterogeneity": 0.006740524592402647,
-    "stress_heterogeneity": 0.1936512128039573,
-    "septal_lateral_gradient": 1.3804237324681492
+    "apd_mean": 237.12089940831538,
+    "apd_std": 0.10428541924235678,
+    "apd_range": 0.24862829140329268,
+    "repol_heterogeneity": 0.00043979851418655545,
+    "stress_heterogeneity": 0.14263984758771464,
+    "septal_lateral_gradient": 1.3214285714285716
   },
   {
     "severity": 0.25,
     "asymmetry": 1.0,
     "apd_map": {
-      "basal_septal": 162.79227649367022,
-      "mid_septal": 160.8014744359134,
-      "mid_lateral": 164.29462250541837,
-      "basal_lateral": 164.55022807519708
+      "basal_septal": 236.93835181065515,
+      "mid_septal": 236.62047815129336,
+      "mid_lateral": 237.25192288747348,
+      "basal_lateral": 237.19297370387358
     },
-    "apd_mean": 163.10965037754977,
-    "apd_std": 1.4922990154876796,
-    "apd_range": 3.7487536392836773,
-    "repol_heterogeneity": 0.009149054099701988,
-    "stress_heterogeneity": 0.24283438573389812,
-    "septal_lateral_gradient": 1.5460745803643272
+    "apd_mean": 237.0009316383239,
+    "apd_std": 0.24926785428280068,
+    "apd_range": 0.6314447361801285,
+    "repol_heterogeneity": 0.0010517589638136815,
+    "stress_heterogeneity": 0.19661277666299895,
+    "septal_lateral_gradient": 1.4800000000000002
   },
   {
     "severity": 0.5,
     "asymmetry": 0.0,
     "apd_map": {
-      "basal_septal": 164.0599210904693,
-      "mid_septal": 162.43569475163895,
-      "mid_lateral": 163.31000759049857,
-      "basal_lateral": 163.79560323439728
+      "basal_septal": 237.07285623654752,
+      "mid_septal": 237.02492641855497,
+      "mid_lateral": 237.02492641855497,
+      "basal_lateral": 237.07285623654752
     },
-    "apd_mean": 163.40030666675102,
-    "apd_std": 0.618461929773838,
-    "apd_range": 1.62422633883034,
-    "repol_heterogeneity": 0.003784949627023458,
-    "stress_heterogeneity": 0.09920474046058338,
-    "septal_lateral_gradient": 1.0437497832438685
+    "apd_mean": 237.04889132755125,
+    "apd_std": 0.02396490899627679,
+    "apd_range": 0.04792981799255358,
+    "repol_heterogeneity": 0.00010109690394274983,
+    "stress_heterogeneity": 0.03380821788514661,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.5,
     "asymmetry": 0.25,
     "apd_map": {
-      "basal_septal": 163.48609742722329,
-      "mid_septal": 161.8386692267377,
-      "mid_lateral": 163.31000759049857,
-      "basal_lateral": 163.79560323439728
+      "basal_septal": 237.01506242480536,
+      "mid_septal": 237.05275208352396,
+      "mid_lateral": 237.02492641855497,
+      "basal_lateral": 237.07285623654752
     },
-    "apd_mean": 163.1075943697142,
-    "apd_std": 0.7529546621232371,
-    "apd_range": 1.9569340076595836,
-    "repol_heterogeneity": 0.0046163065860472625,
-    "stress_heterogeneity": 0.12101533433023609,
-    "septal_lateral_gradient": 1.1447578267835976
+    "apd_mean": 237.04139929085795,
+    "apd_std": 0.022822200643321956,
+    "apd_range": 0.05779381174215814,
+    "repol_heterogeneity": 9.627938710958388e-05,
+    "stress_heterogeneity": 0.057232926667100996,
+    "septal_lateral_gradient": 1.096774193548387
   },
   {
     "severity": 0.5,
     "asymmetry": 0.5,
     "apd_map": {
-      "basal_septal": 162.77449370893373,
-      "mid_septal": 160.9208535404432,
-      "mid_lateral": 163.31000759049857,
-      "basal_lateral": 163.79560323439728
+      "basal_septal": 236.7363051565626,
+      "mid_septal": 236.99177981871617,
+      "mid_lateral": 237.02492641855497,
+      "basal_lateral": 237.07285623654752
     },
-    "apd_mean": 162.7002395185682,
-    "apd_std": 1.0889636030918635,
-    "apd_range": 2.8747496939540724,
-    "repol_heterogeneity": 0.006693066994333375,
-    "stress_heterogeneity": 0.15752826989620225,
-    "septal_lateral_gradient": 1.2674104510818403
+    "apd_mean": 236.9564669075953,
+    "apd_std": 0.13033742636365372,
+    "apd_range": 0.33655107998492895,
+    "repol_heterogeneity": 0.0005500479816593515,
+    "stress_heterogeneity": 0.10256190602156702,
+    "septal_lateral_gradient": 1.2142857142857142
   },
   {
     "severity": 0.5,
     "asymmetry": 0.75,
     "apd_map": {
-      "basal_septal": 162.07593306599665,
-      "mid_septal": 159.9762008868056,
-      "mid_lateral": 163.31000759049857,
-      "basal_lateral": 163.79560323439728
+      "basal_septal": 236.91921119226026,
+      "mid_septal": 236.95838640852162,
+      "mid_lateral": 237.02492641855497,
+      "basal_lateral": 237.07285623654752
     },
-    "apd_mean": 162.28943619442452,
-    "apd_std": 1.4753598121346636,
-    "apd_range": 3.8194023475916765,
-    "repol_heterogeneity": 0.009090917109152849,
-    "stress_heterogeneity": 0.20474093351740213,
-    "septal_lateral_gradient": 1.419499705211661
+    "apd_mean": 236.9938450639711,
+    "apd_std": 0.05923754520467584,
+    "apd_range": 0.15364504428725922,
+    "repol_heterogeneity": 0.000249953939473348,
+    "stress_heterogeneity": 0.15632903660550146,
+    "septal_lateral_gradient": 1.3599999999999999
   },
   {
     "severity": 0.5,
     "asymmetry": 1.0,
     "apd_map": {
-      "basal_septal": 161.10056640023322,
-      "mid_septal": 158.7059724470164,
-      "mid_lateral": 163.31000759049857,
-      "basal_lateral": 163.79560323439728
+      "basal_septal": 236.8993109459043,
+      "mid_septal": 236.9148249064965,
+      "mid_lateral": 237.02492641855497,
+      "basal_lateral": 237.07285623654752
     },
-    "apd_mean": 161.72803741803637,
-    "apd_std": 2.0189139777856515,
-    "apd_range": 5.089630787380884,
-    "repol_heterogeneity": 0.012483388842264504,
-    "stress_heterogeneity": 0.2608009486599789,
-    "septal_lateral_gradient": 1.6130678468314328
+    "apd_mean": 236.97797962687582,
+    "apd_std": 0.07311438364602382,
+    "apd_range": 0.17354529064323287,
+    "repol_heterogeneity": 0.00030852817532305384,
+    "stress_heterogeneity": 0.21705724460424605,
+    "septal_lateral_gradient": 1.5454545454545454
   },
   {
     "severity": 0.75,
     "asymmetry": 0.0,
     "apd_map": {
-      "basal_septal": 162.9535536267249,
-      "mid_septal": 161.06476651245976,
-      "mid_lateral": 162.00432081527833,
-      "basal_lateral": 162.61931301180812
+      "basal_septal": 236.82367825300025,
+      "mid_septal": 237.02262131265888,
+      "mid_lateral": 237.02262131265888,
+      "basal_lateral": 236.82367825300025
     },
-    "apd_mean": 162.16048849156778,
-    "apd_std": 0.7184127030463765,
-    "apd_range": 1.888787114265142,
-    "repol_heterogeneity": 0.004430257393333725,
-    "stress_heterogeneity": 0.09789442642116611,
-    "septal_lateral_gradient": 1.0429742185727282
+    "apd_mean": 236.92314978282957,
+    "apd_std": 0.09947152982931584,
+    "apd_range": 0.19894305965863168,
+    "repol_heterogeneity": 0.00041984723704920453,
+    "stress_heterogeneity": 0.033682357033287764,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 0.75,
     "asymmetry": 0.25,
     "apd_map": {
-      "basal_septal": 162.26365478998923,
-      "mid_septal": 160.19848056868432,
-      "mid_lateral": 162.00432081527833,
-      "basal_lateral": 162.61931301180812
+      "basal_septal": 236.84911863331217,
+      "mid_septal": 236.96412155580038,
+      "mid_lateral": 237.02262131265888,
+      "basal_lateral": 236.82367825300025
     },
-    "apd_mean": 161.77144229644,
-    "apd_std": 0.9340234057968347,
-    "apd_range": 2.4208324431237997,
-    "repol_heterogeneity": 0.005773722435417695,
-    "stress_heterogeneity": 0.12270535520161216,
-    "septal_lateral_gradient": 1.154721456276949
+    "apd_mean": 236.91488493869292,
+    "apd_std": 0.08166277790094291,
+    "apd_range": 0.19894305965863168,
+    "repol_heterogeneity": 0.00034469247435455565,
+    "stress_heterogeneity": 0.06101555813353067,
+    "septal_lateral_gradient": 1.107142857142857
   },
   {
     "severity": 0.75,
     "asymmetry": 0.5,
     "apd_map": {
-      "basal_septal": 161.36814226572824,
-      "mid_septal": 159.02915194851084,
-      "mid_lateral": 162.00432081527833,
-      "basal_lateral": 162.61931301180812
+      "basal_septal": 236.89332256382477,
+      "mid_septal": 236.90637133124983,
+      "mid_lateral": 237.02262131265888,
+      "basal_lateral": 236.82367825300025
     },
-    "apd_mean": 161.25523201033138,
-    "apd_std": 1.359230681644523,
-    "apd_range": 3.5901610632972734,
-    "repol_heterogeneity": 0.008429064066320893,
-    "stress_heterogeneity": 0.16476799236534542,
-    "septal_lateral_gradient": 1.293288031030183
+    "apd_mean": 236.91149836518343,
+    "apd_std": 0.07144460754928306,
+    "apd_range": 0.19894305965863168,
+    "repol_heterogeneity": 0.0003015666527048675,
+    "stress_heterogeneity": 0.11237044372290914,
+    "septal_lateral_gradient": 1.24
   },
   {
     "severity": 0.75,
     "asymmetry": 0.75,
     "apd_map": {
-      "basal_septal": 160.2876664614887,
-      "mid_septal": 157.80364461765203,
-      "mid_lateral": 162.00432081527833,
-      "basal_lateral": 162.61931301180812
+      "basal_septal": 236.921549544757,
+      "mid_septal": 236.89245103301073,
+      "mid_lateral": 237.02262131265888,
+      "basal_lateral": 236.82367825300025
     },
-    "apd_mean": 160.6787362265568,
-    "apd_std": 1.8669560842490003,
-    "apd_range": 4.815668394156091,
-    "repol_heterogeneity": 0.011619185762181966,
-    "stress_heterogeneity": 0.21911664952414822,
-    "septal_lateral_gradient": 1.4696454898070261
+    "apd_mean": 236.91507503585672,
+    "apd_std": 0.07154253689378644,
+    "apd_range": 0.19894305965863168,
+    "repol_heterogeneity": 0.0003019754521022294,
+    "stress_heterogeneity": 0.1732140299652811,
+    "septal_lateral_gradient": 1.4090909090909087
   },
   {
     "severity": 0.75,
     "asymmetry": 1.0,
     "apd_map": {
-      "basal_septal": 158.93594843101164,
-      "mid_septal": 156.08343558210618,
-      "mid_lateral": 162.00432081527833,
-      "basal_lateral": 162.61931301180812
+      "basal_septal": 236.95898568336997,
+      "mid_septal": 236.95651225918846,
+      "mid_lateral": 237.02262131265888,
+      "basal_lateral": 236.82367825300025
     },
-    "apd_mean": 159.91075446005107,
-    "apd_std": 2.6133276727077677,
-    "apd_range": 6.535877429701941,
-    "repol_heterogeneity": 0.016342413501404807,
-    "stress_heterogeneity": 0.2838404383370597,
-    "septal_lateral_gradient": 1.7016947776712934
+    "apd_mean": 236.9404493770544,
+    "apd_std": 0.0724384794983543,
+    "apd_range": 0.19894305965863168,
+    "repol_heterogeneity": 0.0003057244117195016,
+    "stress_heterogeneity": 0.2424868005542078,
+    "septal_lateral_gradient": 1.6315789473684208
   },
   {
     "severity": 1.0,
     "asymmetry": 0.0,
     "apd_map": {
-      "basal_septal": 161.64758245465782,
-      "mid_septal": 159.4434778954128,
-      "mid_lateral": 160.70891324815602,
-      "basal_lateral": 161.2292330970813
+      "basal_septal": 236.90271487722202,
+      "mid_septal": 236.91716292708588,
+      "mid_lateral": 236.91716292708588,
+      "basal_lateral": 236.90271487722202
     },
-    "apd_mean": 160.757301673827,
-    "apd_std": 0.828220003597634,
-    "apd_range": 2.2041045592450246,
-    "repol_heterogeneity": 0.005151989956126995,
-    "stress_heterogeneity": 0.09674140152426093,
-    "septal_lateral_gradient": 1.0422959730647234
+    "apd_mean": 236.90993890215395,
+    "apd_std": 0.007224024931929307,
+    "apd_range": 0.014448049863858614,
+    "repol_heterogeneity": 3.0492705225477678e-05,
+    "stress_heterogeneity": 0.03356819753426345,
+    "septal_lateral_gradient": 1.0
   },
   {
     "severity": 1.0,
     "asymmetry": 0.25,
     "apd_map": {
-      "basal_septal": 160.76357651372382,
-      "mid_septal": 158.3375419350741,
-      "mid_lateral": 160.70891324815602,
-      "basal_lateral": 161.2292330970813
+      "basal_septal": 236.90407227666583,
+      "mid_septal": 236.94306175295787,
+      "mid_lateral": 236.91716292708588,
+      "basal_lateral": 236.90271487722202
     },
-    "apd_mean": 160.25981619850882,
-    "apd_std": 1.1280924255450742,
-    "apd_range": 2.8916911620071915,
-    "repol_heterogeneity": 0.007039147131853323,
-    "stress_heterogeneity": 0.1253887076412066,
-    "septal_lateral_gradient": 1.1673714898324903
+    "apd_mean": 236.9167529584829,
+    "apd_std": 0.01620330335004712,
+    "apd_range": 0.04034687573584961,
+    "repol_heterogeneity": 6.839239162156916e-05,
+    "stress_heterogeneity": 0.06583632279402493,
+    "septal_lateral_gradient": 1.1199999999999999
   },
   {
     "severity": 1.0,
     "asymmetry": 0.5,
     "apd_map": {
-      "basal_septal": 159.51794387644622,
-      "mid_septal": 157.01553298098224,
-      "mid_lateral": 160.70891324815602,
-      "basal_lateral": 161.2292330970813
+      "basal_septal": 237.0064066342311,
+      "mid_septal": 236.91262862500298,
+      "mid_lateral": 236.91716292708588,
+      "basal_lateral": 236.90271487722202
     },
-    "apd_mean": 159.61790580066645,
-    "apd_std": 1.6255006602255087,
-    "apd_range": 4.213700116099062,
-    "repol_heterogeneity": 0.010183698702672252,
-    "stress_heterogeneity": 0.1745035790041055,
-    "septal_lateral_gradient": 1.3265585111732845
+    "apd_mean": 236.9347282658855,
+    "apd_std": 0.04171205100653654,
+    "apd_range": 0.10369175700907363,
+    "repol_heterogeneity": 0.00017604870046626406,
+    "stress_heterogeneity": 0.12467176965798389,
+    "septal_lateral_gradient": 1.2727272727272727
   },
   {
     "severity": 1.0,
     "asymmetry": 0.75,
     "apd_map": {
-      "basal_septal": 158.08900925133275,
-      "mid_septal": 154.95656565062018,
-      "mid_lateral": 160.70891324815602,
-      "basal_lateral": 161.2292330970813
+      "basal_septal": 237.12262014840962,
+      "mid_septal": 237.05088533124217,
+      "mid_lateral": 236.91716292708588,
+      "basal_lateral": 236.90271487722202
     },
-    "apd_mean": 158.74593031179757,
-    "apd_std": 2.4905282846664623,
-    "apd_range": 6.272667446461128,
-    "repol_heterogeneity": 0.01568876934214781,
-    "stress_heterogeneity": 0.23795136076592377,
-    "septal_lateral_gradient": 1.5360151182006454
+    "apd_mean": 236.99834582098993,
+    "apd_std": 0.09211466802542714,
+    "apd_range": 0.21990527118759928,
+    "repol_heterogeneity": 0.0003886721981384772,
+    "stress_heterogeneity": 0.19451559862116327,
+    "septal_lateral_gradient": 1.473684210526316
   },
   {
     "severity": 1.0,
     "asymmetry": 1.0,
     "apd_map": {
-      "basal_septal": 156.08994426249046,
-      "mid_septal": 152.89206157367516,
-      "mid_lateral": 160.70891324815602,
-      "basal_lateral": 161.2292330970813
+      "basal_septal": 237.19284138239163,
+      "mid_septal": 237.19284138239163,
+      "mid_lateral": 236.91716292708588,
+      "basal_lateral": 236.90271487722202
     },
-    "apd_mean": 157.73003804535074,
-    "apd_std": 3.435621757448253,
-    "apd_range": 8.337171523406141,
-    "repol_heterogeneity": 0.021781658078725872,
-    "stress_heterogeneity": 0.3139259509682293,
-    "septal_lateral_gradient": 1.824017952863266
+    "apd_mean": 237.0513901422728,
+    "apd_std": 0.14154344421154377,
+    "apd_range": 0.29012650516961,
+    "repol_heterogeneity": 0.000597100249555983,
+    "stress_heterogeneity": 0.27493781573626014,
+    "septal_lateral_gradient": 1.7500000000000002
   }
 ]

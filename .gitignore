@@ -3,3 +3,5 @@ __pycache__/
 frontier/
 figures/*.png
 summary_figure.py
+
+.DS_Store
