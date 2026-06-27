@@ -5,3 +5,8 @@ figures/*.png
 summary_figure.py
 
 .DS_Store
+sim.html
+frontier/
+revise3/
+__pycache__/
+*.pyc
