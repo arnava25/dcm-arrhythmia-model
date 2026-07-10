@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '/Users/aru/Desktop/dcm')
+import os; sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -17,7 +17,7 @@ from models.single_cell import run_single_cell
 # envelope reported in the mechano-electric-feedback literature, across the
 # physiological stretch range used by the geometry model.
 #
-# We do NOT assert a single direction. Stretch-induced APD change is
+# I do NOT assert a single direction. Stretch-induced APD change is
 # preparation-dependent: K-selective / IK_SAC-dominant preparations shorten
 # APD, non-selective-cation-dominant preparations can prolong it
 # (Peyronnet, Nerbonne & Kohl, Circ Res 2016; Kamkin et al., Cardiovasc Res

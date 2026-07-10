@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '/Users/aru/Desktop/dcm')
+import os; sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import numpy as np
 import json
@@ -76,7 +76,7 @@ def run_sweep():
                   f'{metrics["stress_heterogeneity"]:>10.4f} '
                   f'{metrics["septal_lateral_gradient"]:>10.4f}')
     
-    # Save results
+
     with open('data/sweep_results.json', 'w') as f:
         json.dump(results, f, indent=2)
     
@@ -89,7 +89,7 @@ if __name__ == '__main__':
     os.makedirs('data', exist_ok=True)
     results = run_sweep()
     
-    # Quick summary
+
     print('\n=== Key finding ===')
     normal = [r for r in results if r['severity'] == 0.0][0]
     uniform_dcm = [r for r in results if r['severity'] == 1.0 and r['asymmetry'] == 0.0][0]

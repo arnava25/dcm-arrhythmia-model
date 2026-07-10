@@ -1,7 +1,8 @@
 import myokit
 import numpy as np
 
-MODEL_PATH = '/Users/aru/Desktop/dcm/ohara_rudy_2011.mmt'
+import os
+MODEL_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'ohara_rudy_2011.mmt')
 BEAT_DURATION_MS = 1000          # 1 Hz pacing
 
 # Pace a FIXED, identical number of beats for every cell, then measure the

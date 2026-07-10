@@ -19,3 +19,5 @@ python3 experiments/threshold_analysis.py   # substrate vs septal/lateral stress
 python3 experiments/parameter_sweep.py      # stress and substrate across the 25 geometries
 python3 experiments/sensitivity_analysis.py # SAC conductance and reversal potential sensitivity
 python3 experiments/validation.py           # single-cell SAC validation against the reported envelope
+
+Figures read generated sweep output; run the relevant experiment script first (e.g. `parameter_sweep.py` before `figures/main_figure.py`).

@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0, '/Users/aru/Desktop/dcm')
+import os; sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -13,13 +13,13 @@ from models.single_cell import run_single_cell_metrics
 # dispersion, the phase-correct substrate for diastolically engaged SACs.
 # Secondary: APD90 dispersion.
 #
-# We deliberately do NOT impose a 5 ms or 10 ms "arrhythmia threshold."
+# Deliberately did NOT impose a 5 ms or 10 ms "arrhythmia threshold."
 # The literature does not support an absolute-ms dispersion threshold for
 # reentry (Laurita & Rosenbaum 2000 report a structure-dependent 3.2 ms/mm
 # spatial gradient; Akar & Rosenbaum 2003 a >10 ms/mm transmural gradient;
 # Coronel et al. 2009 argue dispersion magnitude alone is not arrhythmogenic).
 # Without electrotonic coupling this single-cell model produces a SUBSTRATE
-# PROXY, not a reentry threshold. We therefore report the continuous,
+# PROXY, not a reentry threshold. I therefore report the continuous,
 # monotonic relationship between the septal/lateral wall-stress gradient and
 # the substrate, and leave any clinical cut-point to prospective validation.
 #
@@ -65,8 +65,7 @@ def run_threshold():
 
     grad = np.array([r['sl_gradient'] for r in rows])
     vr = np.array([r['vrest_range_mV'] for r in rows])
-    # Monotonic relationship (deterministic model output; report as a
-    # relationship and a slope, NOT as an inferential statistic with a p-value)
+    # Monotonic relationship 
     slope, intercept = np.polyfit(grad, vr, 1)
     r_val = np.corrcoef(grad, vr)[0, 1]
     print()

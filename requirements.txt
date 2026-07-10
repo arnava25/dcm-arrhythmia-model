@@ -1,0 +1,4 @@
+# Python 3.11; myokit requires SUNDIALS/CVODE
+myokit==1.39.2
+numpy==1.26.4
+matplotlib==3.10.9
