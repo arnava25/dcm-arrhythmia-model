@@ -24,10 +24,12 @@ PACE_BEATS = 600
 #
 # E_SAC depends on the channel mix: the non-selective cation SAC reverses
 # near 0 to -10 mV, the K-selective SAC near -90 mV, so whole-cell E_SAC
-# spans roughly -90 to -10 mV. With E_SAC = -10 mV the ohmic form below
-# produces APD90 SHORTENING with stretch, as in K-SAC / IK_SAC-dominant
-# preparations. Direction is genuinely preparation-dependent (non-selective
-# dominance can prolong APD90); the arrhythmogenic quantity is the regional
+# spans roughly -90 to -10 mV. With E_SAC = -10 mV (the non-selective
+# cation reversal) the ohmic form below produces a small APD90 PROLONGATION
+# with stretch (+3.2 ms, ~1.4%, at lambda = 1.20; baseline APD90 228.6 ms),
+# consistent with non-selective-cation-dominant preparations. The direction
+# is genuinely preparation-dependent (K-selective dominance, E_SAC near -90
+# mV, can shorten APD90); the arrhythmogenic quantity is the regional
 # SPREAD of repolarization, not its sign.
 E_SAC = -10.0
 G_SAC_MAX = 0.003                # nS/pF
